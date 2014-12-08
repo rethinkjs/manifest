@@ -1,4 +1,25 @@
-manifest
-========
+*slimJS* - Manifest
+===================
 
-Manifest of SlimJS
+javascript is broken!
+---------------------
+
+... not all of it. In fact most of it is quite awesome. But let's face it: `this` and `prototype` are not so well solved. The dynamic this context leads to great flexibilty but also to either bugs or verbose binding-call-apply-orgies.
+
+we can fix this!
+----------------
+
+![you shall not use this](https://i.imgflip.com/emrmv.jpg)
+
+Turns out that you can leave these clunky parts out and have an even awesomer language. Just use the functional part and the plain objects. Even [Douglas Crockfort](http://www.ustream.tv/recorded/46640057) thinks this way!
+
+so what is *slimJS*
+-------------------
+
+*slimJS* should become the name for Javascript without new/this/prototype/bind. We want to establish a new standard writing Javascript, which is easy to use, read and manipulate.
+
+If you have some opinions or ideas on this topic, feel free to open an issue for discussion.
+
+In the near furture we will gather some patterns and usefull resources and module when working with *slimJS*. We also want to create a badge for modules that are *slimJS*-compatible and those which are written in *slimJS*.
+
+**Stay tuned!**
