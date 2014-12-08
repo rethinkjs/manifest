@@ -1,0 +1,4 @@
+manifest
+========
+
+Manifest of SlimJS
