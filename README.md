@@ -1,5 +1,5 @@
-*slimJS* - Manifest
-===================
+*rethinkJS* - Manifest
+======================
 
 javascript is broken!
 ---------------------
@@ -13,13 +13,13 @@ we can fix this!
 
 Turns out that you can leave these clunky parts out and have an even awesomer language. Just use the functional part and the plain objects. Even [Douglas Crockfort](http://www.ustream.tv/recorded/46640057) thinks this way!
 
-so what is *slimJS*
--------------------
+so what is *rethinkJS*
+----------------------
 
-*slimJS* should become the name for Javascript without new/this/prototype/bind. We want to establish a new standard writing Javascript, which is easy to use, read and manipulate.
+*rethinkJS* should become the name for Javascript without new/this/prototype/bind. We want to establish a new standard writing Javascript, which is easy to use, read and manipulate.
 
 If you have some opinions or ideas on this topic, feel free to open an issue for discussion.
 
-In the near furture we will gather some patterns and usefull resources and module when working with *slimJS*. We also want to create a badge for modules that are *slimJS*-compatible and those which are written in *slimJS*.
+In the near furture we will gather some patterns and usefull resources and module when working with *rethinkJS*. We also want to create a badge for modules that are *rethinkJS*-compatible and those which are written in *rethinkJS*.
 
 **Stay tuned!**
