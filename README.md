@@ -1,5 +1,5 @@
-*rethinkJS* - Manifest
-======================
+*rethink.js* - Manifest
+=======================
 
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/rethinkjs/manifest?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -15,13 +15,14 @@ we can fix this!
 
 Turns out that you can leave these clunky parts out and have an even awesomer language. Just use the functional part and the plain objects. Even [Douglas Crockfort](http://www.ustream.tv/recorded/46640057) thinks this way!
 
-so what is *rethinkJS*
-----------------------
+so what is *rethink.js*
+-----------------------
 
-*rethinkJS* should become the name for Javascript without new/this/prototype/bind. We want to establish a new standard writing Javascript, which is easy to use, read and manipulate.
+*rethink.js* should become the name for Javascript without new/this/prototype/bind. We want to establish a new standard writing Javascript, which is easy to use, read and manipulate.
 
 If you have some opinions or ideas on this topic, feel free to open an issue for discussion.
 
-In the near furture we will gather some patterns and usefull resources and module when working with *rethinkJS*. We also want to create a badge for modules that are *rethinkJS*-compatible and those which are written in *rethinkJS*.
+In the near furture we will gather some patterns and usefull resources and module when working with *rethink.js*. We also want to create a badge for modules that are *rethink.js*-compatible and those which are written in *rethink.js*.
 
 **Stay tuned!**
+
