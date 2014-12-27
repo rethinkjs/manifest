@@ -24,5 +24,6 @@ If you have some opinions or ideas on this topic, feel free to open an issue for
 
 In the near furture we will gather some patterns and usefull resources and module when working with *rethink.js*. We also want to create a badge for modules that are *rethink.js*-compatible and those which are written in *rethink.js*.
 
-**Stay tuned!**
+See the [wiki](https://github.com/rethinkjs/manifest/wiki) for patterns and libraries.
+
 
