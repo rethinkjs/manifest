@@ -6,7 +6,7 @@
 javascript is broken!
 ---------------------
 
-... not all of it. In fact most of it is quite awesome. But let's face it: `this` and `prototype` are not so well solved. The dynamic this context leads to great flexibilty but also to either bugs or verbose binding-call-apply-orgies.
+... not all of it. In fact most of it is quite awesome. But let's face it: `this` and `prototype` are not so well solved. The dynamic this context leads to great flexibility but also to either bugs or verbose binding-call-apply-orgies.
 
 we can fix this!
 ----------------
