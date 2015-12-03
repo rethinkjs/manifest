@@ -38,4 +38,4 @@ Feel free to add this nice badge to you project it it don't uses `this` in it's 
 Patterns and libs that use *rethink.js*
 ---------------------------------------
 
-See the [wiki](https://github.com/rethinkjs/manifest/wiki) for patterns and libraries.
+See the [wiki](https://github.com/rethinkjs/manifest/wiki) for [patterns](https://github.com/rethinkjs/manifest/wiki/Patterns) and [libraries](https://github.com/rethinkjs/manifest/wiki/Modules).
