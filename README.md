@@ -27,7 +27,7 @@ In the near furture we will gather some patterns and usefull resources and modul
 Badge
 -----
 
-Feel free to add this nice badge to you project it it don't uses `this` in it's code.
+Feel free to add this nice badge to your project it it don't uses `this` in it's code.
 
 [![rethink.js](https://img.shields.io/badge/rethink-js-yellow.svg)](https://github.com/rethinkjs/manifest)
 
